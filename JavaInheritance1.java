@@ -65,7 +65,7 @@ class Bird extends Animal{
     }
 }
 
-public class Solution{
+public class JavaInheritance1{
 
    public static void main(String args[]){
 
